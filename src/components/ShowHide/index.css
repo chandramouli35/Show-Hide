@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.container {
+  background-image: radial-gradient(#fc63a7, #fa7257);
+  background-size: cover;
+  height: 100vh;
+}
+.card {
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 200px;
+}
+.heading {
+  color: white;
+}
+.button {
+  color: #dd1264;
+  background-color: #ffffff;
+  padding: 5px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 10px;
+}
+.below {
+  display: flex;
+  flex-direction: row;
+}
+.showhidecontainer {
+  color: black;
+  width: 100px;
+  padding: 20px;
+  background-color: #ffffff;
+  margin-left: 130px;
+}
